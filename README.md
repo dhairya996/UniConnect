@@ -133,6 +133,13 @@ Users can logout from their profile, or exit the app respectively using these bu
 ## Chat
 The application provides a chat feature that will help the users to interact among themselves whether it be for food ordering purpose or for buying and selling items or just for fun. 
 The chat feature has the functionality of searching the user to whom we desire to chat by their username. Once a user finds the person to whom he/she is willing to chat. The user can send messages that will be updated at real time for both the users providing a seamless chatting experience.
+#### Chat Home Page
+This page shows all the previous chats of any user, along with an indicator to represent weather the last sent message was seen or not, or whether there is any new message for the user from someone.
+#### ChatRoom
+The page which shows the previous conversation of the current user with another user, who they have chatted with before.
+#### Search User Page
+Since all the users of the application have their own unique college email ID, it makes the task of searching for a user to chat with much easier. In the search User page,the user can type the college email ID of any person they want to chat with, and if search for the user to start a new conversation. The new chatroom for the new pair of users will be added to the chat home page of the current with other chat rooms.
+#### Integration of Chat Feature in other features
 The chat feature has been used in buy and sell to make an interested buyer interact with a seller.
 The chat has also been used in the carpool so that people who are willing to travel together can interact among themselves.
 The bulk food ordering facility also provides chatting facilities so that people can discuss what to order and from where to order.
